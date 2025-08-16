@@ -131,7 +131,7 @@ git clone https://github.com/matthewmiller1s/FileStore
 python3 -m venv myenv
 source myenv/bin/activate
 pip3 install -U -r requirements.txt
-Edit info.py with variables as given below then run bot
+Edit config.py with variables as given below then run bot
 python3 main.py
 </pre>
 </p>
